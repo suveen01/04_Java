@@ -22,6 +22,13 @@ public class Test1 {
 //		DOC 확인 방법
 //		1) google -> java 21 api 검색
 //		
+//		2) 궁금한 코드 클릭 -> shift f2
+//		
+//		
+		
+		
+		
+		
 	}
 
 }
