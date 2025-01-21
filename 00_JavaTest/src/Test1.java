@@ -1,4 +1,4 @@
-// JS와 주석 도잉ㄹ
+// JS와 주석 동일
 /* Run 버튼 클릭 시 (단축기 ctrl + f11)
 1) 자동으로 컴파일 수행(javac ooo.java)
  -> .class 파일(byte code) 생성
