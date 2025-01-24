@@ -7,8 +7,8 @@ public class EncapsulationRun {
 		Person person1 = new Person();
 //		person1.name="홍길동";
 //		person1.height=181.3;
-			person1.setName("ddd");
-			person1.setHeight(181.3);
+			person1.setName("홍길동");
+			person1.setHeight(183.3);
 			
 		Person person2 = new Person();
 //		person2.name="김미영";
